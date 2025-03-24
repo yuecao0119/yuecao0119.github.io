@@ -181,4 +181,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Cao Yue (曹越) is a graduate student in computer science at Nanjing University, supervised by Prof. [Lu Tong](https://cs.nju.edu.cn/lutong/). He obtained his B.E. degree at the School of Software at Dalian University of Technology. His research interests lie within deep learning for Computer Vision, especially multimodal large language models.
+
+**Actively looking for internships!**
