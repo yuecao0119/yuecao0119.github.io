@@ -19,9 +19,9 @@ sections:
         text: Download CV
         url: uploads/YueCao_NJU.pdf
     design:
-      css_class: dark
+      css_class: light
       background:
-        color: black
+        color: grey
         image:
           # Add your image background to `assets/media/`.
           filename: ''

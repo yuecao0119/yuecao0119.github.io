@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 曹越
+title: Yue Cao
 
 # Name pronunciation (optional)
-name_pronunciation: Yue Cao
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Yue
