@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 曹越
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yue Cao
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yue
+last_name: Cao
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ✨
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,31 +20,29 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Graduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Nanjing University
+    url: https://www.nju.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:yuecao0119@163.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/yuecao0119
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=eDa196cAAAAJ&hl=zh-CN
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/%E8%B6%8A-%E6%9B%B9-b103a5358/
   - icon: academicons/orcid
     url: https://orcid.org/
+  - icon: weixin
+    url: 
 
 interests:
   - Artificial Intelligence
