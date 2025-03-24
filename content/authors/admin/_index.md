@@ -39,10 +39,8 @@ profiles:
     url: https://scholar.google.com/citations?user=eDa196cAAAAJ&hl=zh-CN
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/%E8%B6%8A-%E6%9B%B9-b103a5358/
-  - icon: academicons/orcid
-    url: https://orcid.org/
-  - icon: weixin
-    url: 
+  - icon: brands/weixin
+    url: uploads/YueCao_WeChat.png
 
 interests:
   - Artificial Intelligence
@@ -181,6 +179,6 @@ awards:
 
 ## About Me
 
-Cao Yue (曹越) is a graduate student in computer science at Nanjing University, supervised by Prof. [Lu Tong](https://cs.nju.edu.cn/lutong/). He obtained his B.E. degree at the School of Software at Dalian University of Technology. His research interests lie within deep learning for Computer Vision, especially multimodal large language models.
+Cao Yue (曹越) is a graduate student in computer science at [Nanjing University](https://www.nju.edu.cn/), supervised by Prof. [Lu Tong](https://cs.nju.edu.cn/lutong/). He obtained his B.E. degree at the School of Software at [Dalian University of Technology](https://www.dlut.edu.cn/). His research interests lie within deep learning for Computer Vision, especially multimodal large language models.
 
 **Actively looking for internships!**
