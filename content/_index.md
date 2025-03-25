@@ -20,16 +20,16 @@ sections:
         url: uploads/YueCao_NJU.pdf
     design:
       css_class: light
-      background:
-        color: white
-        image:
-          # Add your image background to `assets/media/`.
-          filename: ''
-          filters:
-            brightness: 0.98
-          size: cover
-          position: center
-          parallax: false
+      # background:
+        # color: white
+        # image:
+        #   # Add your image background to `assets/media/`.
+        #   filename: ''
+        #   filters:
+        #     brightness: 0.98
+        #   size: cover
+        #   position: center
+        #   parallax: false
   - block: markdown
     content:
       title: '📚 My Research'
