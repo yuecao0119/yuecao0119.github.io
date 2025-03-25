@@ -70,28 +70,25 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
     
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Research Intern, supervised by Wenhai Wang
+    company_name: Shanghai AI Laboratory
+    company_url: 'https://www.shlab.org.cn/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-10-15
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Participated in the data construction, model exploration, model evaluation and paper writing of the InternVL 2.5 series of multimodal models.
+      - Participated in the work of improving the reasoning capability of multimodal large models, including the establishment of dataset pipeline, data construction, experimental verification, etc. in InternVL MPO.
+      - Participate in the expansion of InternVL's long-term thinking chain multimodal reasoning capabilities, participate in the long-term thinking chain reinforcement learning design, data construction, and one-stop evaluation framework construction.
+  - position: Test Development Intern
+    company_name: ByteDance
+    company_url: 'https://www.bytedance.com/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-01-01
+    date_end: 2023-05-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      The team worked together to maintain and improve the VR algorithm automation testing platform, which has nearly 70,000 lines of code. I personally fixed more than ten bugs and implemented three sub-projects based on the message queue mechanism: batch task creation, emergency task termination, and task reconstruction.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
