@@ -138,14 +138,24 @@ sections:
     content:
       title: Contact
       text: |-
-        :at-symbol: [yuecao0119@163.com]('mailto:yuecao0119@163.com')
+        icon:at-symbol [yuecao0119@163.com]('mailto:yuecao0119@163.com')
 
-        :brands/weixin: [hbdlnj]('uploads/YueCao_WeChat.png')
+        icon:brands/weixin: [hbdlnj]('uploads/YueCao_WeChat.png')
 
         <i class="fa-brands fa-weixin"></i> (+86) 15514699000
-
-        :: (+86) 15514699000
-
+      items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
     design:
       columns: '1'
 
