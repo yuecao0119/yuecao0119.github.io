@@ -60,7 +60,7 @@ education:
 work:
   - position: Research Intern, supervised by Wenhai Wang
     company_name: Shanghai AI Laboratory
-    company_url: 'https://www.shlab.org.cn/'
+    company_url: https://www.shlab.org.cn/
     company_logo: ''
     date_start: 2024-10-15
     date_end: ''
@@ -71,7 +71,7 @@ work:
       - Participate in the expansion of InternVL's long-term thinking chain multimodal reasoning capabilities, participate in the long-term thinking chain reinforcement learning design, data construction, and one-stop evaluation framework construction.
   - position: Test Development Intern
     company_name: ByteDance
-    company_url: 'https://www.bytedance.com/'
+    company_url: https://www.bytedance.com/
     company_logo: ''
     date_start: 2023-01-01
     date_end: 2023-05-01

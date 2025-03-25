@@ -77,6 +77,7 @@ sections:
   - block: resume-experience
     id: experience
     content:
+      title: Experience
       username: admin
     design:
       # Hugo date format
@@ -132,4 +133,20 @@ sections:
   #       # Card background color (CSS class)
   #       css_class: "bg-primary-700"
   #       css_style: ""
+  - block: cta-card
+    id: contact
+    content:
+      title: Contact
+      text: |-
+        :at-symbol: [yuecao0119@163.com]('mailto:yuecao0119@163.com')
+        :brands/weixin: [hbdlnj]('uploads/YueCao_WeChat.png')
+        <i class="fa-brands fa-weixin"></i> (+86) 15514699000
+        :: (+86) 15514699000
+
+    design:
+      card:
+        # Card background color (CSS class)
+        css_class: "bg-primary-700"
+        css_style: ""
+
 ---
