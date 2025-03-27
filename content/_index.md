@@ -121,8 +121,11 @@ sections:
         {{< icon name="envelope" pack="far" >}} [yuecao0119@163.com]('mailto:yuecao0119@163.com')
 
         {{< icon name="weixin" pack="fab" >}} [hbdlnj]('uploads/YueCao_WeChat.png')
-
-        {{< icon name="phone" pack="far" >}} [(+86) 15514699000]('tel:(+86) 15514699000')
+        {{< icon name="weixin" pack="fa-brands" >}} 
+        {{< icon name="weixin" pack="far" >}} 
+        {{< icon name="weixin" pack="fas" >}} 
+        <i class="fa-brands fa-weixin"></i>
+        {{< icon name="phone" pack="far" >}} [(+86) 15514699000]('tel:(+86)15514699000')
     design:
       columns: '1'
 ---
