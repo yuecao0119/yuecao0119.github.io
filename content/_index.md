@@ -122,7 +122,7 @@ sections:
 
         {{< icon name="brands/weixin" >}} [hbdlnj]('uploads/YueCao_WeChat.png')
 
-        {{< icon name="phone" pack="far" >}} [(+86) 15514699000]('tel:(+86)15514699000')
+        {{< icon name="phone" pack="far" >}} [(+86) 15514699000]('tel:(+86)%2015514699000')
     design:
       columns: '1'
 ---
