@@ -5,16 +5,16 @@ title: 'Expanding Performance Boundaries of Open-Source Multimodal Models with M
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 'Zhe Chen'
-  - 'Weiyun Wang'
-  - 'Yue Cao'
-  - 'Yangzhou Liu'
-  - 'Zhangwei Gao'
-  - 'Erfei Cui'
-  - 'Jinguo Zhu'
-  - 'Shenglong Ye'
-  - 'Hao Tian'
-  - 'Zhaoyang Liu'
+  - 'Zhe Chen*'
+  - 'Weiyun Wang*'
+  - admin
+  - 'Yangzhou Liu*'
+  - 'Zhangwei Gao*'
+  - 'Erfei Cui*'
+  - 'Jinguo Zhu*'
+  - 'Shenglong Ye*'
+  - 'Hao Tian*'
+  - 'Zhaoyang Liu*'
   - 'Lixin Gu'
   - 'Xuehui Wang'
   - 'Qingyun Li'
@@ -50,6 +50,10 @@ authors:
 
 # Author notes (optional)
 author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
   - 'Equal contribution'
   - 'Equal contribution'
 
