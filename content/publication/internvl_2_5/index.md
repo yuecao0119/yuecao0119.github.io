@@ -92,18 +92,18 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-links:
-- name: Custom Link
-  url: http://example.org
-  -icon: 
 url_pdf: '2412.05271v4.pdf'
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/OpenGVLab/InternVL'
 url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_project: 'https://internvl.github.io/'
+url_slides: 'https://internvl.github.io/files/internvl_slides_chinese.pdf'
+links:
+- name: Demo
+  url: https://internvl.opengvlab.com/
+  icon: {{< icon name="images" pack="far" >}} 
+- name: HuggingFace
+  url: https://huggingface.co/collections/OpenGVLab/internvl25-673e1019b66e2218f68d7c1c
+  icon: far/images
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
