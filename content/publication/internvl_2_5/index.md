@@ -100,7 +100,7 @@ url_slides: 'https://internvl.github.io/files/internvl_slides_chinese.pdf'
 links:
 - name: Demo
   url: https://internvl.opengvlab.com/
-  icon: {{< icon name="images" pack="far" >}} 
+  icon: general/images
 - name: HuggingFace
   url: https://huggingface.co/collections/OpenGVLab/internvl25-673e1019b66e2218f68d7c1c
   icon: far/images
@@ -118,14 +118,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ''
 ---
 
 {{% callout note %}}
