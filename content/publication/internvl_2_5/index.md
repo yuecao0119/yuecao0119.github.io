@@ -92,23 +92,21 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '2412.05271v4.pdf'
+url_pdf: ''
 url_code: 'https://github.com/OpenGVLab/InternVL'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: 'https://huggingface.co/collections/OpenGVLab/internvl-data-66ed4917fcc1c455f837b8e2'
 url_project: 'https://internvl.github.io/'
 url_slides: 'https://internvl.github.io/files/internvl_slides_chinese.pdf'
 links:
 - name: Demo
   url: https://internvl.opengvlab.com/
-  icon: general/images
 - name: HuggingFace
   url: https://huggingface.co/collections/OpenGVLab/internvl25-673e1019b66e2218f68d7c1c
-  icon: far/images
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Overall architecture.'
   focal_point: ''
   preview_only: false
 
@@ -128,12 +126,22 @@ projects:
 slides: ''
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /callout %}} -->
 
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
+
+## Citation
+
+If you find this project useful in your research, please consider cite:
+
+```BibTeX
+@article{chen2024expanding,
+  title={Expanding performance boundaries of open-source multimodal models with model, data, and test-time scaling},
+  author={Chen, Zhe and Wang, Weiyun and Cao, Yue and Liu, Yangzhou and Gao, Zhangwei and Cui, Erfei and Zhu, Jinguo and Ye, Shenglong and Tian, Hao and Liu, Zhaoyang and others},
+  journal={arXiv preprint arXiv:2412.05271},
+  year={2024}
+}
+```
