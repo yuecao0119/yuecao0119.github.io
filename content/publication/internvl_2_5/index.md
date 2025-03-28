@@ -100,7 +100,7 @@ url_slides: 'https://internvl.github.io/files/internvl_slides_chinese.pdf'
 links:
 - name: Demo
   url: https://internvl.opengvlab.com/
-- name: HuggingFace
+- name: Models
   url: https://huggingface.co/collections/OpenGVLab/internvl25-673e1019b66e2218f68d7c1c
 
 # Featured image
