@@ -48,7 +48,7 @@ interests:
   - Creative Research
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: M.Eng.‌ Artificial Intelligence
     institution: Nanjing University
     date_start: 2023-09-01
     date_end: ''
